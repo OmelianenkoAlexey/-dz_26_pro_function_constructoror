@@ -1,0 +1,30 @@
+.table {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.image {
+    width: 25%;
+}
+
+tr,
+td,
+th {
+    text-align: center;
+    border: 2px solid black;
+}
+
+td {
+    width: 150px;
+
+}
+
+th {
+    font-weight: 900;
+    font-size: 25px;
+    height: 40px;
+}
+
+tr {
+    height: 60px;
+}
